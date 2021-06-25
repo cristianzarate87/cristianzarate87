@@ -6,12 +6,12 @@ También fuí becado en la carrera Certified Tech Developer de Digital House, co
 
 _______Curriculum Vitae________
 
-Formación académica_
+Formación académica/n
 Secundario: Bachillerato Prov. N°1 ‘Ingeniero José Iturbe’ – Fraile Pintado
 Superior: Becado en la carrera Certified Tech Developer de Digital House, con patrocinio de Mercado Libre y Globant - Inicio de cursada 28/06/2021
 Universitario: Licenciatura en Sistemas – Universidad Nacional de Jujuy (U.N.Ju.) – Actualmente cursando materias de 3er y 4to año.
 
-Formación complementaria_
+Formación complementaria/n
 Word avanzado, Excel avanzado, Power Point, Publisher, Soportista e Internet (Fundación Ingenio Ledesma).
 Administración de bases de datos relacionales ORACLE/SQL (Ministerio de Trabajo, Empleo y Seguridad Social).
 Introducción a SQL NUEVO (ORACLE University).
@@ -20,12 +20,12 @@ Curso taller versionado de código Git/GitHub (Universidad Católica de Santiago
 Técnico en redes de datos (Fundación Carlos Slim – Capacítate para el empleo).
 Técnico en instalación y reparación de equipo de cómputo (Fundación Carlos Slim – Capacítate para el empleo).
 
-Objetivo profesional_
+Objetivo profesional/n
 Estudiante de Licenciatura en sistemas en la Universidad Nacional de Jujuy y becado en la carrera Certified Tech Developer, buscando unirse al
 mundo laboral formal. Aprovechando la capacidad de análisis, abstracción, conocimientos de hardware/software, comunicación y trabajo en equipo
 obtenidos en el transcurso de la carrera, quisiera poder contribuir en el buen funcionamiento de su empresa, capacitándome constantemente para
 un buen desempeño laboral.
 
-Experiencia laboral_
+Experiencia laboral/n
 Reparación y mantenimiento de PC, instalación/mantenimiento de redes – cuentapropista – Periodos 2.008 hasta la actualidad.
 
