@@ -4,6 +4,7 @@ También fuí becado en la carrera Certified Tech Developer de Digital House, co
 - 🌱 Actualmente estoy aprendiendo tecnologías web.
 
 
+_______Curriculum Vitae________
 
 Formación académica
 Secundario: Bachillerato Prov. N°1 ‘Ingeniero José Iturbe’ – Fraile Pintado
@@ -26,5 +27,5 @@ obtenidos en el transcurso de la carrera, quisiera poder contribuir en el buen f
 un buen desempeño laboral.
 
 Experiencia laboral
-Reparación y mantenimiento de PC, instalación de redes – cuentapropista – Periodos 2.008 hasta la actualidad.
+Reparación y mantenimiento de PC, instalación/mantenimiento de redes – cuentapropista – Periodos 2.008 hasta la actualidad.
 
