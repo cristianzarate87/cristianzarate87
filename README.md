@@ -4,10 +4,10 @@ También fuí becado en la carrera Certified Tech Developer de Digital House, co
 - 🌱 Actualmente estoy aprendiendo tecnologías web.
 
 
-_______Curriculum Vitae________
+#Curriculum Vitae
 
 
-Formación académica
+##Formación académica
 
 Secundario: Bachillerato Prov. N°1 ‘Ingeniero José Iturbe’ – Fraile Pintado
 
@@ -16,7 +16,7 @@ Superior: Becado en la carrera Certified Tech Developer de Digital House, con pa
 Universitario: Licenciatura en Sistemas – Universidad Nacional de Jujuy (U.N.Ju.) – Actualmente cursando materias de 3er y 4to año.
 
 
-Formación complementaria
+##Formación complementaria
 
 Word avanzado, Excel avanzado, Power Point, Publisher, Soportista e Internet (Fundación Ingenio Ledesma).
 
@@ -33,7 +33,7 @@ Técnico en redes de datos (Fundación Carlos Slim – Capacítate para el emple
 Técnico en instalación y reparación de equipo de cómputo (Fundación Carlos Slim – Capacítate para el empleo).
 
 
-Objetivo profesional
+##Objetivo profesional
 
 Estudiante de Licenciatura en sistemas en la Universidad Nacional de Jujuy y becado en la carrera Certified Tech Developer, buscando unirse al
 mundo laboral formal. Aprovechando la capacidad de análisis, abstracción, conocimientos de hardware/software, comunicación y trabajo en equipo
@@ -41,7 +41,7 @@ obtenidos en el transcurso de la carrera, quisiera poder contribuir en el buen f
 un buen desempeño laboral.
 
 
-Experiencia laboral
+##Experiencia laboral
 
 Reparación y mantenimiento de PC, instalación/mantenimiento de redes – cuentapropista – Periodos 2.008 hasta la actualidad.
 
