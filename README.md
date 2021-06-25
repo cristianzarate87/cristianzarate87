@@ -7,6 +7,19 @@ También fuí becado en la carrera Certified Tech Developer de Digital House, co
 
 # Curriculum Vitae
 
+## Datos personales
+
+Nombre y Apellido: Cristian Alejandro Zárate
+
+Edad: 34 años
+
+Localidad: Fraile Pintado - Jujuy
+
+Teléfono: 03886- 15555158
+
+Email: cristianzarate@outlook.com
+
+
 
 ## Formación académica
 
