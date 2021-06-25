@@ -5,7 +5,7 @@ También fuí becado en la carrera Certified Tech Developer de Digital House, co
 
 
 ***Curriculum Vitae***
-
+# curriculum vitae
 
 **Formación académica**
 
