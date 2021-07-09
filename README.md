@@ -15,7 +15,7 @@ Edad: 34 años
 
 Localidad: Fraile Pintado - Jujuy
 
-Teléfono: 03886- 15555158
+Teléfono: +54903886-15555158
 
 Email: cristianzarate@outlook.com
 
@@ -39,6 +39,10 @@ Administración de bases de datos relacionales ORACLE/SQL (Ministerio de Trabajo
 Introducción a SQL NUEVO (ORACLE University).
 
 Programación con PL/SQL (ORACLE University).
+
+Diseño Web con HTML5 + CSS (Fundación Telefónica Movistar).
+
+Programación con JavaScript (Fundación Telefónica).
 
 Curso taller versionado de código Git/GitHub (Universidad Católica de Santiago del Estero UCSE - DASS).
 
