@@ -1,5 +1,5 @@
 - 👋 Hola, soy @cristianzarate87. Estudiante avanzado de la Licenciatura en sistemas en la Universidad Nacional de Jujuy.
-- :computer: Alumno del trayecto Desarrollador Full Stack – Entrenamiento Tecnológico IncluIT, dictados por la empresa IncluIT S.A., el Ministerio de Desarrollo Económico y Producción de Jujuy y la Facultad de Ingeniería (FI) de la Universidad Nacional de Jujuy (UNJu).
+- :computer: Alumno del trayecto Desarrollador Full Stack – Entrenamiento Tecnológico IncluIT, dictados por la empresa IncluIT S.A., el Ministerio de            Desarrollo Económico y Producción de Jujuy y la Facultad de Ingeniería (FI) de la Universidad Nacional de Jujuy (UNJu).
 - 👀 Estoy interesado en Desarrollo web y programación concurrente en Java.
 - 🌱 Actualmente estoy aprendiendo tecnologías web como HTML5, CSS3, JavaScript, Bootstrap, React, React Native, NodeJS, Typescript y MongoDB. 
 
